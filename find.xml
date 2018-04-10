@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'codesafe-resultprocess'" />
-    <option name="defaultScopeName" value="Module 'codesafe-resultprocess'" />
-    <option name="SEARCH_SCOPE" value="Module 'codesafe-resultprocess'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
