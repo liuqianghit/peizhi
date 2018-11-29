@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="YAML" />
     </extensionMap>
